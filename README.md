@@ -15,6 +15,6 @@ Python → Logic foundation & scripting
 
 
 ## 🛠 Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,hardhat,web3js,ether.js)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,hardhat,etherjs)
 
 Currently exploring: Foundry / Hardhat
