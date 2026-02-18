@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi everyone!, my name is Lathif, 
+I'am from Indonesia 🇮🇩👋
+## 👋 About Me
 
-<!--
-**LTF-Rahendra30/LTF-Rahendra30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web3 learner focused on smart contracts and decentralized systems.  
+Building step by step toward understanding DeFi mechanics.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧱 Core Stack
+![Core](https://skillicons.dev/icons?i=solidity,js,python)
+
+Solidity → Smart contract development  
+JavaScript → dApp interaction & frontend  
+Python → Logic foundation & scripting  
+
+
+## 🛠 Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+
+Currently exploring: Foundry / Hardhat
