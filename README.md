@@ -1,5 +1,5 @@
 ## Hi everyone!, my name is Lathif, 
-I'am from Indonesia 🇮🇩👋
+I'am from Indonesia <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/id.svg" width="20"/>👋
 ## 👋 About Me
 
 Web3 learner focused on smart contracts and decentralized systems.  
@@ -15,6 +15,6 @@ Python → Logic foundation & scripting
 
 
 ## 🛠 Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,hardhat,web3js,ether.js)
 
 Currently exploring: Foundry / Hardhat
