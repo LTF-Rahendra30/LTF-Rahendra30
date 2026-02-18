@@ -3,7 +3,7 @@ I'am from Indonesia 🇮🇩👋
 ## 👋 About Me
 
 Web3 learner focused on smart contracts and decentralized systems.  
-Building step by step toward understanding DeFi mechanics.
+Building step by step toward understanding DeFi and DApps mechanics.
 
 
 ## 🧱 Core Stack
