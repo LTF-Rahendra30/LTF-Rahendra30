@@ -12,7 +12,7 @@ Building step by step toward understanding DeFi and DApps mechanics.
 Solidity → Smart contract development  
 JavaScript → dApp interaction & frontend  
 Python → Logic foundation & scripting  
-Htnl & CSS → Foundation Web Development & Styling  
+Html & CSS → Foundation Web Development & Styling  
 
 
 ## 🛠 Tools
