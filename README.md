@@ -7,7 +7,7 @@ Building step by step toward understanding DeFi and DApps mechanics.
 
 
 ## 🧱 Core Stack
-![Core](https://skillicons.dev/icons?i=solidity,js,python,html)
+![Core](https://skillicons.dev/icons?i=solidity,js,python,html,css)
 
 Solidity → Smart contract development  
 JavaScript → dApp interaction & frontend  
